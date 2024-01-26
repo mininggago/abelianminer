@@ -1,0 +1,6 @@
+Just Easy way to launch Abelian Miner
+Installation URL: 
+Wallet and worker template: %WAL%
+Pool URL:
+Pass:
+Extra Config: -U (for Nvidia) -G (for AMD)
