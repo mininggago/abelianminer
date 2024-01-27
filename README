@@ -1,6 +1,26 @@
 Just Easy way to launch Abelian Miner
 Installation URL: https://github.com/mininggago/abelianminer/releases/download/2.0.2/abelianminer-2.0.2.tar.gz
 Wallet and worker template: %WAL%
-Pool URL:
-Pass:
+Pool URL: Select from the bottom list
+Pass: Read At the Bottom
 Extra Config: -U (for Nvidia) -G (for AMD)
+
+AbelPool.IO
+Global: global-service.abelpool.io:27778
+Asia: asia-service.abelpool.io:27778
+
+ZKProvers Pools:
+America: pool-us.zkprovers.com:57778
+Asia: pool.zkprovers.com:47778
+
+Wallet is the user before the : for example: e66d0c250a53e7f1182a9fadbb472cc772aef568c762b6fbb82723de6a8372f9:e0A2655A83
+Wallet will be: e66d0c250a53e7f1182a9fadbb472cc772aef568c762b6fbb82723de6a8372f9
+
+Pass is the information after the : for example: e66d0c250a53e7f1182a9fadbb472cc772aef568c762b6fbb82723de6a8372f9:e0A2655A83
+Pass should be: e0A2655A83
+
+If you like the package and you like to donate:
+
+ABEL: abe12ec7d7364c66eaf263cb73365a697211c3d8b195da0baff874313a4f20d9ba4cec8c58066d262723bacc5b70586d7d34a73591f0353da2a7184831d708562b43
+
+Many thanks
